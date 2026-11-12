@@ -4,5 +4,5 @@ export function helloWorld(){
 }
 
 export function sayHello(){
-    console.log("Hi, Max");
+    console.log("Hi, Maximilian");
 }
