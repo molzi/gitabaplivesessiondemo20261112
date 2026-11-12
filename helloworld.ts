@@ -1,3 +1,3 @@
 export function helloWorld(){
-    console.log("Hello World, Another Developer");
+    console.log("Hello World, Second Developer");
 }
