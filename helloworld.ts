@@ -6,3 +6,8 @@ export function helloWorld(){
 export function sayHello(){
     console.log("Hi, Developer");
 }
+
+export function newFunction(){
+    //do something
+    //do something but right
+}
