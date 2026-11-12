@@ -9,4 +9,5 @@ export function sayHello(){
 
 export function newFunction(){
     //do something
+    //do something but right
 }
